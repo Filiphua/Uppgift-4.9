@@ -21,10 +21,12 @@ namespace Uppgift_4._9
                     {
                         Console.Write("X");
                     }
+                    Console.Write("-"";
                     for (int l = 0; l < antalO; l++)
                     {
                         Console.Write("O");
                     }
+                    Console.Write("-");
                 }
                 Console.WriteLine();
             }
